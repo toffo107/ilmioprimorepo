@@ -6,3 +6,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 ## fermate dellametro di milano
 ### metro gialla
 - comasina
+- affori
