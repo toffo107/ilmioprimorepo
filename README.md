@@ -15,3 +15,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - crocetta
 - dergano
 - duomo
+- lodi T.I.B.B
