@@ -11,3 +11,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - brenta
 - centrale
 - comasina
+- corvetto
