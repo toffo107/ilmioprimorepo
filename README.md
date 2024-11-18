@@ -25,3 +25,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - rogoredo
 - San donato
 - sondrio
+- turati
