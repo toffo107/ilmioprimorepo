@@ -7,3 +7,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 ### metro gialla
 - comasina
 - affori
+- affori FN
