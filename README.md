@@ -23,3 +23,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - porto di mare
 - repubblica
 - rogoredo
+- San donato
