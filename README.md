@@ -22,3 +22,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - porta romana
 - porto di mare
 - repubblica
+- rogoredo
