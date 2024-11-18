@@ -26,3 +26,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - San donato
 - sondrio
 - turati
+- zara
