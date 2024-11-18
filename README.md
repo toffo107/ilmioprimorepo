@@ -17,3 +17,4 @@ questa è la mia seconda scritta, sto imparando a usare github
 - duomo
 - lodi T.I.B.B
 - maciacchini
+- missori
